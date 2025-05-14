@@ -1,0 +1,13 @@
+{
+    "name": "aurajs",
+    "version": "1.0.0",
+    "description": "AuraJS Discord Bot Full JS",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "discord.js": "^14.18.0",
+        "node-fetch": "^2.6.7"
+    }
+}

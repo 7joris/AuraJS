@@ -1,0 +1,11 @@
+{
+  "logChannelId": "",
+  "welcomeChannelId": "",
+  "ticketChannelId": "",
+  "ticketCategories": {
+    "achat": "",
+    "technique": ""
+  },
+  "token": "",
+  "openAiApiKey": ""
+}
